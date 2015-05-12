@@ -12,7 +12,8 @@ public class Q5 {
 				qtd_negativo++;
 			}
 		}
-		System.out.println("Soma: " + soma + "qtd negativos " + qtd_negativo);
+		System.out.println();
+		System.out.println("Soma: " + soma + " qtd negativos " + qtd_negativo);
 	}
 
 	public static void main(String[] args) {
